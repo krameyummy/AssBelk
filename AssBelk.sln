@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssBelk", "AssBelk\AssBelk.csproj", "{FD78BC06-057B-49CB-873D-0175D224D410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD78BC06-057B-49CB-873D-0175D224D410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD78BC06-057B-49CB-873D-0175D224D410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD78BC06-057B-49CB-873D-0175D224D410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD78BC06-057B-49CB-873D-0175D224D410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C26C51F-D76F-4164-A410-E5027A7417EB}
+	EndGlobalSection
+EndGlobal
